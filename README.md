@@ -12,7 +12,7 @@ you will also find me often times writing books and experimenting with photograp
 In the moment, I'm learning Japanese (also want to start German sometime soon), 
 and trying to deepen my knowledge in Java. 
 
-You can get in touch with me by this e-mail: 
+You can get in touch with me by this e-mail: callumrodgers.business@gmail.com
 
 <!---
 CallumRodgers/CallumRodgers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
