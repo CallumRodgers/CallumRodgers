@@ -1,4 +1,4 @@
-Hello, I am @CallumRodgers! I'm a 16 year old developer who
+Hello, I am @CallumRodgers! I'm a young developer who
 wants to bring modern science software to those who might not have
 great resources, and to everyone who aspires to learn.
 
